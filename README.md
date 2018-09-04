@@ -1,1 +1,1 @@
-# Polybian
+# Polybian square
