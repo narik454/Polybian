@@ -1,0 +1,7 @@
+D:\Documents\C#\Polybian\Polybian\bin\Debug\Polybian.exe.config
+D:\Documents\C#\Polybian\Polybian\bin\Debug\Polybian.exe
+D:\Documents\C#\Polybian\Polybian\bin\Debug\Polybian.pdb
+D:\Documents\C#\Polybian\Polybian\obj\Debug\Polybian.csprojResolveAssemblyReference.cache
+D:\Documents\C#\Polybian\Polybian\obj\Debug\Polybian.csproj.CoreCompileInputs.cache
+D:\Documents\C#\Polybian\Polybian\obj\Debug\Polybian.exe
+D:\Documents\C#\Polybian\Polybian\obj\Debug\Polybian.pdb
